@@ -14,7 +14,7 @@
 
 ## SOBRE ESTE PROYECTO: "CRUD con " Solidity " 
 
-Primeros pasos en este nuevo pero tan apasionante mundo de la tecnologia BLOCKCHAIN, iniciamos generando un pequeño CRUD de tareas en Solidity, este es el lenguaje de Backend de una de las mas famosas blockchein como es "ETHERIUM". 
+Primeros pasos en este nuevo pero tan apasionante mundo de la tecnologia BLOCKCHAIN, iniciamos generando un pequeño CRUD de tareas en Solidity, este es el lenguaje de Backend para la creacion de "Smart Contract" de una de las mas famosas blockchein como es "ETHERIUM". 
 Para este  ejercicio, simulamos la creacion de tareas de forma dinimaca consecutivas, en donde para ello creamos tres funciones:
 
 ## . createTask = Crear nueva tarea
